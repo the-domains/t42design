@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[innocence makes the purist art]]></title>
+        <description><![CDATA[innocence makes the purist art]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 21:23:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[design is all around us]]></title>
+            <description><![CDATA[<article><h1>design is all around us</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1026e089eefc92b5e6267b7199290a1cdd320801.jpg"></article>]]></description>
+            <link>undefineddesign-is-all-around-us/index.html</link>
+            <guid isPermaLink="false">2fa7fd11-29ee-4af3-92db-ee139d4a6c2e</guid>
+            <pubDate>Tue, 23 Feb 2016 21:22:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
