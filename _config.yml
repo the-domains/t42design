@@ -1,4 +1,4 @@
-name: t42design
+name: le petite artiste
 favicon: null
 layout_spectrum: 0.294086228357628
 typography_spectrum: 0.8481309737544507
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9481815670151263
-  lightness: 0.3506733530666679
-  saturation: 0.9153363618534058
-  rhythmicContrast: 0.904211406596005
+    - '#ffffff'
+    - '#4b4046'
+    - '#fd9903'
+    - '#eb0044'
+    - '#0091ba'
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
